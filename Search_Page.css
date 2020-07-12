@@ -1,0 +1,19 @@
+body {
+    background-image: url("Batsy.jpg");
+    background-color: black;
+    background-size: cover;
+}
+.box{
+    width:100%;
+    text-align: center;
+   
+}
+#search
+{   font-family: Arial, Helvetica, sans-serif;
+    margin :0 auto;
+    color:red;
+    font-weight: 2700;
+    font-size: large;
+    background-color: black;
+    filter: opacity(0.5);
+}
